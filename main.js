@@ -1,4 +1,5 @@
 "use strict";
+console.log('hello')
 console.log("Running webapp...");
 
 let Express = require('express');
